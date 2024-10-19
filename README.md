@@ -47,7 +47,7 @@ In the realm of precision agriculture and environmental sustainability, GREENINT
 - **Project Name:** GREENINTELLECT
 - **Team Members:**
   1. VAIBHAV VILAS PAWAR (21BCE3989)
-  2. YASH VISHNU CHOPADE (21BCT0319)
+  2. YASH VISHNU CHOPADE (21BCE0967)
 
 ## Tech Stack
 
